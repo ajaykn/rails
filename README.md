@@ -1,4 +1,4 @@
-# Welcome to Rails
+# Welcome to Rails - test
 
 ## What's Rails?
 
